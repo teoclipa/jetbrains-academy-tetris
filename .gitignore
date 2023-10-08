@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Tetris (Java)/task/build/
+/Tetris (Java)/task/out/
+/Tetris (Java)/task/out/production/classes/
